@@ -1,0 +1,1 @@
+SlideImage(Aplikasi Pantai Jogja) adalah aplikasi Android sederhana yang memungkinkan pengguna untuk menjelajahi beberapa tempat wisata di Yogyakarta, Indonesia. Aplikasi ini memperkenalkan daftar gambar dengan deskripsi yang menarik, yang dapat diakses melalui tautan web langsung dari aplikasi.
